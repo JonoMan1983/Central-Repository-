@@ -1,2 +1,2 @@
-# Central-Repository-
+#CORE#
 Life management development 
